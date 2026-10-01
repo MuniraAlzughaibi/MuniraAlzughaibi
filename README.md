@@ -22,6 +22,7 @@
 ### 🚀 Featured work
 | Project | Description | Stack |
 |---|---|---|
+| **[Saudi Heritage](https://github.com/MuniraAlzughaibi/saudi-heritage)** · [Live demo](https://muniraalzughaibi.github.io/saudi-heritage/) | Heritage auctions with live bidding, site & event bookings, admin panel | Flutter · Dart |
 | **Clinics Portal** | Multi-role portal (clinic, doctor, pharmacy dashboards) | PHP · MySQL · JS |
 | **E-commerce Mobile App** | Shopping app with offers & promotions engine | Flutter · WooCommerce API |
 | **Operations Portal** | Internal operations dashboard | PHP · MySQL |
