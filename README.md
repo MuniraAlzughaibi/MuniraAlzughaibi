@@ -28,9 +28,3 @@
 | **Operations Portal** | Internal operations dashboard | PHP · MySQL |
 
 > Some projects are private client work. Screenshots and details available on request.
-
-### 📊 GitHub stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MuniraAlzughaibi&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuniraAlzughaibi&layout=compact&hide_border=true" />
-</p>
